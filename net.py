@@ -56,7 +56,7 @@ class Network:
     
     def backward(self, output):
         self.layers.count.downto(0) 
-
+    # do this here
 
 
 
